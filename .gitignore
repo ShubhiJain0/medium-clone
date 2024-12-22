@@ -1,0 +1,21 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+firebase.jsx
+
+server/medium-clone-ddd23-firebase-adminsdk-ug4ra-3798d0dee2.json

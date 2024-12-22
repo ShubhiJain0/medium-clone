@@ -1,0 +1,12 @@
+# POST http://localhost:3000/signin
+# Content-Type: application/json
+
+# {
+#   "email" : "shubhi@gmail.com",
+#   "password": "Shubhi@27"  
+# } 
+
+# eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NDBiYTgzZjYwZDA2N2I2M2IzNjkwMSIsImlhdCI6MTczMzM3OTA0MH0.dtuSHQZGanX0FipUdn7GlzCP0hIkYtkUxEqDOb_SPFo
+
+# GET http://localhost:3000/new-notification
+# Authorization:  Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3NDBiYTgzZjYwZDA2N2I2M2IzNjkwMSIsImlhdCI6MTczMzQxMDYxOX0.z6wTZqGBjNl3tJ2PiGiQ3IPuquR9mC73VlCWM2aHLUQ
